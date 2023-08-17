@@ -4,6 +4,6 @@ out = "out"
 libs = ["lib"]
 remappings = ["@openzeppelin/contracts=lib/openzeppelin-contracts/contracts"]
 ffi = true
-fs_permission = [{access = "read", path = "./images/"}]
+fs_permission = [{access = "read", path = "./img/"}]
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
